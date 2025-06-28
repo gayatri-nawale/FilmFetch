@@ -1,0 +1,20 @@
+/* src/css/Navbar.css */
+.first {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #111827;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.first a {
+  color: #f3f4f6;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.first a:hover {
+  color: #60a5fa;
+}
