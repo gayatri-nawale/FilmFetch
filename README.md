@@ -1,12 +1,47 @@
-# React + Vite
+# 🎬 FilmFetch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**FilmFetch** is a modern, responsive web app built with **React** and **Vite** that lets users **search**, **browse popular movies**, and **like/favorite** titles using The Movie Database (TMDb) API.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search movies by title  
+- 🌟 View currently popular movies  
+- ❤️ Like/unlike movies and save them to *Favorites*  
+- 📄 Dedicated Favorites page  
+- 💾 Persistent likes using `localStorage`  
+- 🎨 Responsive UI with Tailwind CSS  
+- ⚡ Lightning-fast development with Vite  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖥️ Live Demo
+
+🌐 [Demo Link](https://your-demo-link.netlify.app)  
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React (via Vite)
+- **Styling:** Tailwind CSS
+- **API:** [TMDb](https://developers.themoviedb.org/3)
+- **Dev Tools:** Vite, ESLint, Prettier
+
+---
+
+## 📦 Getting Started
+
+### 🔧 Prerequisites
+
+- Node.js v14+
+- npm or yarn
+
+### ⚙️ Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/gayatri-nawale/FilmFetch.git
+   cd FilmFetch
