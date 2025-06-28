@@ -5,11 +5,10 @@ import {Navbar} from './components/Navbar.jsx'
 import { Home } from "./pages/Home";
 import { Route, Routes } from "react-router-dom";
 import {Favorites} from "./pages/Favorites"
-import { MovieProvider } from './contexts/MovieContext'; // ✅ fixed import
-
+import { MovieProvider } from './contexts/MovieContext'; 
 function App() {
   return (
-    <MovieProvider> {/* ✅ wrap your app in provider */}
+    <MovieProvider> 
       <div className="main">
         <Navbar />
         <Routes>
