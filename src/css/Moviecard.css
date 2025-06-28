@@ -1,4 +1,4 @@
-/* Layout for card container (apply this in parent .list) */
+
 .list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 3fr));
@@ -7,7 +7,7 @@
   justify-items: center;
 }
 
-/* Individual movie card container */
+
 .card {
   width: 100%;
   max-width: 290px;
@@ -37,9 +37,6 @@
   display: block;
 }
 
-
-
-/* Info section */
 .info {
   padding: 1rem;
   text-align: center;
