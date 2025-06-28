@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/eb9a1e21-e3e5-4697-901c-c6070d14f3e2
-
 # 🎬 FilmFetch
 
 **FilmFetch** is a modern, responsive web app built with **React** and **Vite** that lets users **search**, **browse popular movies**, and **like/favorite** titles using The Movie Database (TMDb) API.
@@ -22,7 +19,9 @@ https://github.com/user-attachments/assets/eb9a1e21-e3e5-4697-901c-c6070d14f3e2
 
 ## 🖥️ Live Demo
 
-🌐 [Video](https://github.com/user-attachments/assets/eb9a1e21-e3e5-4697-901c-c6070d14f3e2)  
+
+https://github.com/user-attachments/assets/eb9a1e21-e3e5-4697-901c-c6070d14f3e2
+
 
 
 ---
