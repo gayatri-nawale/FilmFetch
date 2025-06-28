@@ -140,6 +140,6 @@ This project is licensed under the **MIT License**.
 
 **Gayatri Nawale**
 
-🔗 [GitHub Profile](https://github.com/)
+🔗 [GitHub Profile](https://github.com/nawale-gayatri)
 
 > Powered by React + Vite + TailwindCSS + TMDb API
