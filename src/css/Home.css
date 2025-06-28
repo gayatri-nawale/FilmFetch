@@ -1,15 +1,15 @@
-/* src/css/Home.css */
+
 form {
   display: flex;
-  justify-content: center; /* Horizontally center the input and button */
-  align-items: center;      /* Vertically center them */
-  gap: 1rem;                /* Spacing between input and button */
-  margin: 2rem auto;        /* Add vertical spacing and center the form itself */
-  width: fit-content;       /* Shrink to content size */
+  justify-content: center; 
+  align-items: center;    
+  gap: 1rem;              
+  margin: 2rem auto;    
+  width: fit-content;  
 }
 
 input[type="search"] {
-  width: 600px; /* or any fixed value that looks good */
+  width: 600px; 
   padding: 0.5rem;
   border-radius: 8px;
   border: 2px solid #1f2937;
